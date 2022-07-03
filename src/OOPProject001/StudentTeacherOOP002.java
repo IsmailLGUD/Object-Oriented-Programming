@@ -52,10 +52,10 @@ class NStudent{
 		this.regNo = R;
 		this.classNumber = C;
 		System.out.println("Designation is " + designation + ", Registration Number is " + regNo + " and classNumber is " + classNumber);
-	}
+		}
 	}
 	
-public class StudentTeacherOOP {
+public class StudentTeacherOOP002 {
 	
 	
 	public static void main(String[] args) {

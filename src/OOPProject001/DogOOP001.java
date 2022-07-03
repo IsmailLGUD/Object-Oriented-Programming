@@ -52,7 +52,7 @@ class Dog{
 
 	
 
-public class DogOOP {
+public class DogOOP001 {
 
 	public static void main(String[] args) {
 //			int s2;
