@@ -1,17 +1,18 @@
 package OOPProject001;
 
 class NStudent{
+	
 	  String name;
 	  int idNumber;
 	  boolean isRegular;
 	  double cgpa;
 	  
 	  void study(){
-	    
+	    //function or method
 	  }	
 	  
 	  void research(){
-	    
+		    //function or method
 	  }
 	  
 	  public NStudent() {
@@ -21,10 +22,12 @@ class NStudent{
 	  }
 	  
 	  public NStudent(String N, int ID, double CGPA){
-	    //overloading constructor
+	    //overloading constructor or argumental constructor
+		  
 	    this.name = N;
 	    this.idNumber = ID;
-	    this.cgpa = CGPA;    
+	    this.cgpa = CGPA;   
+	    
 	  }
 	  
 	  @Override
@@ -34,6 +37,7 @@ class NStudent{
 	}
 
 	class Teacher {
+		
 		String designation;
 		int regNo;
 		int classNumber;
@@ -47,13 +51,14 @@ class NStudent{
 	}
 	
 	public Teacher (String D, int R, int C) {
-		//overloading constructor
+		//overloading or argumental constructor
 		this.designation = D;
 		this.regNo = R;
 		this.classNumber = C;
 		System.out.println("Designation is " + designation + ", Registration Number is " + regNo + " and classNumber is " + classNumber);
-		}
+		 }
 	}
+	
 	
 public class StudentTeacherOOP002 {
 	
