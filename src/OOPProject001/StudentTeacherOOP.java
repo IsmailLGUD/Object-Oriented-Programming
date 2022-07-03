@@ -71,6 +71,8 @@ public class StudentTeacherOOP {
 		NStudent s3 = new NStudent("Shihab", 20123920, 3.69);
 		System.out.println(s3);
 		
+		NStudent s4 = new NStudent ("Ismail", 1125595, 4.83);
+		System.out.println(s4);
 		Teacher t1 = new Teacher("Lecturer", 2001, 5);
 		System.out.println(t1);
 	}
