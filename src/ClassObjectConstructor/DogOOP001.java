@@ -1,4 +1,4 @@
-package OOPProject001;
+package ClassObjectConstructor;
 class Dog{
 	  
 	  int legs;
@@ -7,13 +7,13 @@ class Dog{
 	  String food;
 	  boolean isPet;
 	  
-	  void eat(){
+	  void eat(){ 
 	    //This is a funciton also known as method
 	  }
 	  
-	  void sleep() {
+	  void sleep() { 
 
-	    //This is a funciton also known as method
+ 	    //This is a funciton also known as method
 	    
 	  } 
 

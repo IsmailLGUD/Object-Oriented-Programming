@@ -1,4 +1,4 @@
-package OOPProject001;
+package ClassObjectConstructor;
 
 class NStudent{
 	
