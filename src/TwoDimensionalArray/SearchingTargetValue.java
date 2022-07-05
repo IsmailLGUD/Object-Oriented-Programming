@@ -23,7 +23,8 @@ public class SearchingTargetValue {
 		if (count==0) {
 			System.out.println("The target number 3 does not exists!");
 		}
-	else{
+	
+		else{
 			System.out.println("The target number " + target + " exists " + count + " times");
 		}
 
