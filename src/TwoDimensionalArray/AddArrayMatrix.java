@@ -59,6 +59,8 @@ public class AddArrayMatrix {
 			System.out.println();
 		}
 		
+		
+		//substracting two matrix
 		System.out.print("\n\n");
 		System.out.print("C - D= ");
 		for (int row =0; row<2; row++) {
@@ -69,6 +71,7 @@ public class AddArrayMatrix {
 			System.out.println();
 		}
 
+		
 		System.out.print("\n\n");
 		System.out.print("C * D= ");
 		for (int row =0; row<2; row++) {
