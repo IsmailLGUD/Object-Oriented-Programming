@@ -13,10 +13,8 @@ public class InputArray {
 		
 		//taking value of 
 		System.out.println("Please enter value for A Matrix: ");
-		for (int row=0; row < 2; row++) {
-				
-				for (int column=0; column < 3; column++) {
-					
+		for (int row=0; row < 2; row++) {				
+				for (int column=0; column < 3; column++) {					
 					System.out.printf("A[%d][%d] = ", row, column);
 						A[row][column] = input.nextInt();
 					}
@@ -25,8 +23,7 @@ public class InputArray {
 			
 		
 		System.out.println("Please enter value for B Matrix: ");
-			for (int row=0; row < 2; row++) {
-				
+			for (int row=0; row < 2; row++) {				
 				for (int column=0; column < 3; column++) {
 					
 					System.out.printf("B[%d][%d] = ", row, column);

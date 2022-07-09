@@ -11,7 +11,8 @@ class Robot{
 	  //default constructor
 	  
 	}
-	  
+	
+	
 	public Robot(String name, int speed,double latitude,double longitude){
 	  
 	  

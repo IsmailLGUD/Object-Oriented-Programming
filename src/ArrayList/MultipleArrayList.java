@@ -1,7 +1,7 @@
 package ArrayList;
 import java.util.ArrayList;
 import java.util.Arrays;
-public class MultipleArray {
+public class MultipleArrayList {
 
 	public static void main(String[] args) {
 		

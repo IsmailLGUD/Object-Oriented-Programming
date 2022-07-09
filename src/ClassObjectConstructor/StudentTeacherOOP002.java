@@ -22,7 +22,7 @@ class NStudent{
 	  }
 	  
 	  public NStudent(String N, int ID, double CGPA){
-	    //overloading constructor or argumental constructor
+	    //overloading constructor / argumental constructor
 		  
 	    this.name = N;
 	    this.idNumber = ID;

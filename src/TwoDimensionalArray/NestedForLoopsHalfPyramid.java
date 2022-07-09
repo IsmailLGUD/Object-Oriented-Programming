@@ -10,7 +10,9 @@ public class NestedForLoopsHalfPyramid {
 			for (int col=1; col<=i; ++col) {
 				System.out.print(col +" ");
 			}
+			
 			System.out.println();
+			
 		}
 		
 		
